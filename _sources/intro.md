@@ -1,6 +1,6 @@
 # Welcome 
 
-Welcome to Probability for Data Science.
+Welcome to Probability for Data Science. Let's make some changes now.
 
 :::{note}
 Here is a note!
